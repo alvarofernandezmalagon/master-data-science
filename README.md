@@ -1,9 +1,3 @@
 # master-data-science
 
-Hola, salgo en Github, soy Alvaro en el primer dia de Master de Data Science de Kschool
-
-Estoy incluyendo nuevas lineas
-
-cambiar cosas, cambios hechos por otros (simulando que alguien esta haciendo cambios en este repo)
-
-Estoy trabajando, me esta quedando genial.
+This is the repository where I will upload everithing learned in the Kschool Data Science Master.
